@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MoJo3536
+- 😎 I’m interested in learning all types of code ...
+- 🤯 I’m currently learning how to make an Android ...
+- 🫣 I'm shy so my stuff will mostly be private ...
+
+<!---
+MoJo3536/MoJo3536 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
